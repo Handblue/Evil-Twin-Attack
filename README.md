@@ -2,7 +2,7 @@ Kullanıla tool : https://github.com/v1s1t0r1sh3r3/airgeddon
 
 Kullanılan işletim sistemi: Kali Lunix
 
-Video: <video> https://www.youtube.com/watch?v=Lh2iFTVQHoI </video>
+Video: <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Lh2iFTVQHoI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 Açıklama:
 
