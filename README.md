@@ -2,11 +2,10 @@ Kullanıla tool : https://github.com/v1s1t0r1sh3r3/airgeddon
 
 Kullanılan işletim sistemi: Kali Lunix
 
-Video: <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Lh2iFTVQHoI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+Video: https://www.youtube.com/watch?v=Lh2iFTVQHoI
+
 
 Açıklama:
-
-Evil Twin Attack
 
 Kötü bir ikiz saldırısı, kullanıcıları meşru bir ağı taklit eden sahte bir wi-fi erişim noktasına bağlanmaları için kandırarak çalışan kimlik sahtekarlığı yapan bir siber saldırıdır. Bir kullanıcı "kötü ikiz" bir ağa bağlandığında, bilgisayar korsanları ağ trafiğinden özel oturum açma bilgilerine kadar her şeye erişebilir.
 Kötü ikiz saldırılar, adlarını, birbirlerinden ayırt edilemeyecek kadar meşru wi-fi ağlarını taklit etme yeteneklerinden alır. Bu tür bir saldırı özellikle tehlikelidir çünkü tespit edilmesi neredeyse imkansız olabilir.
@@ -29,4 +28,5 @@ Bir kurban, cihazını "kötü ikiz" bir ağa bağladıktan sonra, bilgisayar ko
 Özet
 Şeytan ikizi saldırısı ortadaki adam saldırısı diye geçmektedir yani cihazla hedef modem arasına girip deault saldırısı yapar yani modemle cihaz arasındaki bağlantıyı kesmektedir tam bu sırada bizde aynı isimde ikinci bir wifi yapıyoruz kendi wifisine bağlanamayan hedef bu sefer bizim yapmış olduğumuz wifi ağına bağlanmaya çalışıyor ve bağlan dediğimizde ise bizi bir portala yönlendirir orada wifi şifrelerini yazar ve yazdığı şifre bizim kali deki terminalimize düşmektedir özetle böyle yapılabilir. 
 
-Slayt: https://disk.yandex.com.tr/i/hvEj3Vk986onNw
+Slayt:
+Evil Twin Attack[şeytani ikiz.pptx](https://github.com/Handblue/Evil-Twin-Attack/files/9351885/seytani.ikiz.pptx)
