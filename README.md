@@ -28,5 +28,7 @@ Bir kurban, cihazını "kötü ikiz" bir ağa bağladıktan sonra, bilgisayar ko
 Özet
 Şeytan ikizi saldırısı ortadaki adam saldırısı diye geçmektedir yani cihazla hedef modem arasına girip deault saldırısı yapar yani modemle cihaz arasındaki bağlantıyı kesmektedir tam bu sırada bizde aynı isimde ikinci bir wifi yapıyoruz kendi wifisine bağlanamayan hedef bu sefer bizim yapmış olduğumuz wifi ağına bağlanmaya çalışıyor ve bağlan dediğimizde ise bizi bir portala yönlendirir orada wifi şifrelerini yazar ve yazdığı şifre bizim kali deki terminalimize düşmektedir özetle böyle yapılabilir. 
 
-Slayt:
-Evil Twin Attack[şeytani ikiz.pptx](https://github.com/Handblue/Evil-Twin-Attack/files/9351885/seytani.ikiz.pptx)
+Slayt: https://disk.yandex.com.tr/i/hvEj3Vk986onNw
+
+
+Evil Twin Attack [şeytani ikiz.pptx](https://github.com/Handblue/Evil-Twin-Attack/files/9351885/seytani.ikiz.pptx)
