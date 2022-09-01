@@ -1,6 +1,6 @@
 Kullanılan tool : https://github.com/v1s1t0r1sh3r3/airgeddon
 
-Kullanılan işletim sistemi: Kali Lunix
+Kullanılan işletim sistemi: Kali Linux
 
 Video: https://www.youtube.com/watch?v=Lh2iFTVQHoI
 
