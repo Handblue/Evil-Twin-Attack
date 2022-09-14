@@ -4,7 +4,6 @@ Kullanılan işletim sistemi: Kali Linux
 
 Video: https://www.youtube.com/watch?v=Lh2iFTVQHoI
 
-
 Açıklama:
 
 Kötü bir ikiz saldırısı, kullanıcıları meşru bir ağı taklit eden sahte bir wi-fi erişim noktasına bağlanmaları için kandırarak çalışan kimlik sahtekarlığı yapan bir siber saldırıdır. Bir kullanıcı "kötü ikiz" bir ağa bağlandığında, bilgisayar korsanları ağ trafiğinden özel oturum açma bilgilerine kadar her şeye erişebilir.
